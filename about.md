@@ -16,7 +16,7 @@
 <ul>
     <li>Art</li>
     <li>Music</li>
-    <li>Combat Sports</li>
+    <li></li>
 </ul>
 </section>
 </main>
