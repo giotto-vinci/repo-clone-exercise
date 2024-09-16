@@ -10,9 +10,9 @@
 <section>
     <h2>About Me<h2>
 <figure>
-    <img src="c:\Users\Liber\Pictures\Mine\IMG_E1521.JPG" alt="My version of Takayumi Yamaguchi's Irako Seigen" figcaption>Irako Seigen</figcaption>
+    <img src="Image/IMG_E1521.JPG" alt="My version of Takayumi Yamaguchi's Irako Seigen" figcaption>Irako Seigen</figcaption>
 </figure>
-    <p>I joined Code:You to learn software development and later learn web design. I love learning new things and there is nothing better than new skills that can kick start a new career.</p>
+    <p>I joined Code:You to learn software development and later learn web design. I love learning new things and there is nothing better than learning new skills that can kick start a new career.</p>
 </section>
 <section>
     <h3>Hobbies</h3>
