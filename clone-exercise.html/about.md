@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Repo-Clone_Exercise</title>
-    <link rel="stylesheet" href="C:\Users\Liber\Documents\Projects\repo-clone-exercise\styles.css"/>
+    <link rel="stylesheet" href="C:\Users\Liber\Documents\Projects\repo-clone-exercise\clone-exercise.html\styles.css"/>
 </head>
 <body>
 <main>
@@ -25,5 +26,6 @@
 </ul>
 </section>
 </main>
+<footer></footer>
 </body>
 </html>
