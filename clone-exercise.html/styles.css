@@ -1,3 +1,6 @@
+body {
+background-color: rgba(3, 45, 129, 0.58);
+}
 
 h1 {
     color: black;
@@ -36,5 +39,13 @@ img {
 footer {
     color: black;
     text-align: center;
-    font-size: 20px;
+    font-size: 12px;
+}
+
+.address {
+    margin-bottom: 5px;
+}
+
+a :hover {
+    color: black;
 }
