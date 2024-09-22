@@ -1,3 +1,7 @@
+<figure>
+    <img src="Image/IMG_E1521.JPG" alt="My version of Takayumi Yamaguchi's Irako Seigen" figcaption>Irako Seigen: Also in about.html</figcaption>
+</figure>
+
 # Purpose of this repo
 A simple practice exercise for students in the Code:You Intro module. Students will be:
 - practicing using GitHub's markdown language
@@ -18,8 +22,8 @@ I'm leaving out the specific commands to accomplish 1 and 3 as an exercise for y
 - [x] Create a third level heading with the title "Hobbies"
 - [x] Under hobbies, create a bulleted or numbered list with some of your hobbies.
 - [x] Add an image to your README
-- [ ] Add a link to a website
+- [x] Add a link to a website
 
 ### Taking it further
-- [ ] Build out the above tasks as a simple web page
+- [x] Build out the above tasks as a simple web page
 
