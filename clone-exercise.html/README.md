@@ -1,7 +1,3 @@
-<figure>
-    <img src="Image/IMG_E1521.JPG" alt="My version of Takayumi Yamaguchi's Irako Seigen" figcaption>Irako Seigen: Also in about.html</figcaption>
-</figure>
-
 # Purpose of this repo
 A simple practice exercise for students in the Code:You Intro module. Students will be:
 - practicing using GitHub's markdown language
