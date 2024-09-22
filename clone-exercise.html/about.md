@@ -29,7 +29,7 @@
 </main>
 <footer>
     <p>
-        <a href="C:/Users/Liber/Documents/Projects/repo-clone-exercise/clone-exercise.html/about.html" target="_blank">Visit Website</a>
+         <a href="file:///C:/Users/Liber/Documents/Projects/repo-clone-exercise/clone-exercise.html/about.html" target="_blank">Visit Website</a>
     </p>
     <p class="address">My House Dr.</p>
 </footer>
